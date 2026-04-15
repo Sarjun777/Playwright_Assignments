@@ -1,0 +1,16 @@
+[{
+    "Testcase" : "TC001",
+    "username" : "Demosalesmanager", 
+    "password" : "crmsfa",
+    "Companyname" : "FS Solutions",
+    "Firstname" : "Sarjun",
+    "Lastname" : "C",
+    "Source" : "Direct Mail",
+    "marketing" :"DEMO_MKTG_CAMP",
+    "Industry" : 6,
+    "Currency":"INR",
+    "Country":"India",
+    "State" : "IN-TN"
+
+
+}]
